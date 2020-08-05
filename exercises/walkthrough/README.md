@@ -1,0 +1,1 @@
+![first-clue](/resources/images/walkthrough/first-clue.png)
