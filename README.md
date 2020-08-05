@@ -1,1 +1,1 @@
-My solutions for the coding exercises @ [SQL Murder Mystery](mystery.knightlab.com)
+My solutions for the coding exercises @ [SQL Murder Mystery](https://mystery.knightlab.com)
