@@ -25,9 +25,10 @@ OR p.id = '16371';
 
 # Find the murderer!
 SELECT p.name,
-m.id AS id,
+p.id,
+m.id AS memberId,
 membership_status AS status,
-check_in_date as checkin,
+check_in_date as checkInDate,
 plate_number AS plate
 FROM person p
 JOIN get_fit_now_member m
@@ -39,7 +40,7 @@ ON p.license_id = dl.id
 WHERE m.id LIKE '48Z%'
 AND status = 'gold'
 AND plate LIKE '%H42W%'
-AND checkin LIKE '%0109';
+AND checkInDate LIKE '%0109';
 
 
 
