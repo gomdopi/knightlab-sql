@@ -1,4 +1,4 @@
-# Main
+# Main (Who's the SQL Murderer?)
 
 ## First Clue 
 ![first-clue](/resources/images/walkthrough/first-clue.png)
@@ -15,5 +15,13 @@
 ## Murderer
 ![murderer](/resources/images/walkthrough/murderer.png)
 
-# Extra
+# Extra (Who's the SQL Mastermind?)
 
+## Getting the murderer's transcript
+![murderer-transcript](/resources/images/walkthrough/murderer-transcript.png)
+
+## Income verification
+![income](/resources/images/walkthrough/income.png)
+
+## Finding the Brains
+![mastermind](/resources/images/walkthrough/mastermind.png)
