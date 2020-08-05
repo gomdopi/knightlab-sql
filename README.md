@@ -1,4 +1,4 @@
-# SQL Murder Mystery
+# [SQL Murder Mystery](https://mystery.knightlab.com)
 ![sql-murder-mystery-logo](/resources/images/sql-murder-mystery-logo.png)
 
-My solutions for the coding exercises @ [SQL Murder Mystery](https://mystery.knightlab.com)
+### My solutions for their amazing exercises
