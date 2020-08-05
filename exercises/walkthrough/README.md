@@ -1,3 +1,5 @@
+# Main
+
 ## First Clue 
 ![first-clue](/resources/images/walkthrough/first-clue.png)
 
@@ -12,3 +14,6 @@
 
 ## Murderer
 ![murderer](/resources/images/walkthrough/murderer.png)
+
+# Extra
+
