@@ -1,3 +1,5 @@
+The results you should see when running the SQL scripts found in [walkthrough.sql](/exercises/walkthrough/walkthrough.sql)
+
 # Main (Who's the SQL Murderer?)
 
 ## First Clue 
